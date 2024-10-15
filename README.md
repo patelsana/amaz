@@ -1,0 +1,2 @@
+# amaz
+my project
